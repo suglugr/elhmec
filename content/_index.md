@@ -5,21 +5,22 @@ title:
 ---
 
 
+
 {{< rawhtml >}}
 
 <div align="center">
  <h3> TRANSFORMADORES ELÉCTRICOS Y CONVERTIDORES DE FASE </h3> 
 </div>
   <p align="justify" class="speshal-fancy-custom">
-   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed porta felis sem, in porttitor lectus commodo eu. Nullam nec enim neque. Quisque id ullamcorper eros. Sed in enim eget metus interdum rhoncus. Vestibulum ut leo sit amet erat consectetur sodales. Nunc aliquam sapien molestie mauris placerat porttitor. Praesent nec dolor ante. Praesent tempus id nibh in dignissim. Integer sed felis nec nulla varius lobortis. 
+  ELECTRO H MÉCANICA INDUSTRIAL una empresa  dedicada a la fabricación y comercialización de transfomadores eléctricos secos. Ya sea monofásico, bifásico o trofásico, cada uno diseñado con características específicas para cumplir con las necesidades de maquinaria, redes electricas o plantas industriales. 
   </p>
+
+<p align="justify" class="speshal-fancy-custom"> 
+Contacto: 
+
+Calle 5 de mayo 85. Buenavista, Tlajomulco de Zúñiga, Jal.
+Telefono 3314460465
 
  
 {{< /rawhtml >}}
 
-BANNER Mock UP
-![Alt img](banners/banner1-mockup.png)
-
-SECOND BANNER 
-
-FOOTER DIV (CONTACT INFO)

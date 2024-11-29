@@ -15,6 +15,8 @@ params:
       link: /
       width: 160
       height: 80
+  favincon:
+    path: favincon.svg
 
   theme:
     # light | dark | system
