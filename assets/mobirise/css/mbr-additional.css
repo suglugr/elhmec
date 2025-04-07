@@ -1128,6 +1128,49 @@ a {
 .cid-uHslYFB3B3 .card-box {
   text-align: left;
 }
+.cid-uHIZxbEmld {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-image: url("../../../assets/images/img-background-500x164.webp");
+}
+.cid-uHIZxbEmld .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uHIZxbEmld .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-uHIZxbEmld .card-wrapper {
+  background: #ffffff;
+  border-radius: 4px;
+}
+@media (max-width: 767px) {
+  .cid-uHIZxbEmld .card-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-uHIZxbEmld .card-wrapper {
+    padding: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-uHIZxbEmld .card-wrapper {
+    padding: 4rem;
+  }
+}
+.cid-uHIZxbEmld .card-title {
+  text-align: left;
+}
+.cid-uHIZxbEmld .mbr-text,
+.cid-uHIZxbEmld .mbr-section-btn {
+  text-align: left;
+}
 .cid-uHsmS13DOC {
   padding-top: 0rem;
   padding-bottom: 3rem;
